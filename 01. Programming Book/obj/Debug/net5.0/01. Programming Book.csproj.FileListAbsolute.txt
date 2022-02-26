@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\bin\Debug\net5.0\01. Programming Book.exe
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\bin\Debug\net5.0\01. Programming Book.deps.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\bin\Debug\net5.0\01. Programming Book.runtimeconfig.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\bin\Debug\net5.0\01. Programming Book.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\bin\Debug\net5.0\01. Programming Book.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\bin\Debug\net5.0\ref\01. Programming Book.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\bin\Debug\net5.0\01. Programming Book.pdb
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\obj\Debug\net5.0\01. Programming Book.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\obj\Debug\net5.0\01. Programming Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\obj\Debug\net5.0\01. Programming Book.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\obj\Debug\net5.0\01. Programming Book.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\obj\Debug\net5.0\01. Programming Book.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\obj\Debug\net5.0\01. Programming Book.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\obj\Debug\net5.0\ref\01. Programming Book.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\obj\Debug\net5.0\01. Programming Book.pdb
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\01. Programming Book\obj\Debug\net5.0\01. Programming Book.genruntimeconfig.cache

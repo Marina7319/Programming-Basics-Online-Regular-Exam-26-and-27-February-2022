@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\bin\Debug\net5.0\03. Pastry Shop.exe
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\bin\Debug\net5.0\03. Pastry Shop.deps.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\bin\Debug\net5.0\03. Pastry Shop.runtimeconfig.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\bin\Debug\net5.0\03. Pastry Shop.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\bin\Debug\net5.0\03. Pastry Shop.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\bin\Debug\net5.0\ref\03. Pastry Shop.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\bin\Debug\net5.0\03. Pastry Shop.pdb
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\obj\Debug\net5.0\03. Pastry Shop.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\obj\Debug\net5.0\03. Pastry Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\obj\Debug\net5.0\03. Pastry Shop.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\obj\Debug\net5.0\03. Pastry Shop.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\obj\Debug\net5.0\03. Pastry Shop.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\obj\Debug\net5.0\03. Pastry Shop.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\obj\Debug\net5.0\ref\03. Pastry Shop.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\obj\Debug\net5.0\03. Pastry Shop.pdb
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\03. Pastry Shop\obj\Debug\net5.0\03. Pastry Shop.genruntimeconfig.cache

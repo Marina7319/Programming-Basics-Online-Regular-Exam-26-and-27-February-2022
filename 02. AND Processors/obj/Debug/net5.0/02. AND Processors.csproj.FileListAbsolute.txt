@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\bin\Debug\net5.0\02. AND Processors.exe
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\bin\Debug\net5.0\02. AND Processors.deps.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\bin\Debug\net5.0\02. AND Processors.runtimeconfig.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\bin\Debug\net5.0\02. AND Processors.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\bin\Debug\net5.0\02. AND Processors.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\bin\Debug\net5.0\ref\02. AND Processors.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\bin\Debug\net5.0\02. AND Processors.pdb
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\obj\Debug\net5.0\02. AND Processors.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\obj\Debug\net5.0\02. AND Processors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\obj\Debug\net5.0\02. AND Processors.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\obj\Debug\net5.0\02. AND Processors.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\obj\Debug\net5.0\02. AND Processors.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\obj\Debug\net5.0\02. AND Processors.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\obj\Debug\net5.0\ref\02. AND Processors.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\obj\Debug\net5.0\02. AND Processors.pdb
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\02. AND Processors\obj\Debug\net5.0\02. AND Processors.genruntimeconfig.cache

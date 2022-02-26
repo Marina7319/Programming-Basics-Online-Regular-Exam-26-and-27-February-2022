@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\bin\Debug\net5.0\04. Cat Food.exe
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\bin\Debug\net5.0\04. Cat Food.deps.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\bin\Debug\net5.0\04. Cat Food.runtimeconfig.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\bin\Debug\net5.0\04. Cat Food.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\bin\Debug\net5.0\04. Cat Food.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\bin\Debug\net5.0\ref\04. Cat Food.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\bin\Debug\net5.0\04. Cat Food.pdb
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\obj\Debug\net5.0\04. Cat Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\obj\Debug\net5.0\04. Cat Food.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\obj\Debug\net5.0\04. Cat Food.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\obj\Debug\net5.0\04. Cat Food.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\obj\Debug\net5.0\04. Cat Food.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\obj\Debug\net5.0\ref\04. Cat Food.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\obj\Debug\net5.0\04. Cat Food.pdb
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\04. Cat Food\obj\Debug\net5.0\04. Cat Food.genruntimeconfig.cache

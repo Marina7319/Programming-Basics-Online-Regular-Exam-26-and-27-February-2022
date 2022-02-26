@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.exe
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.deps.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.runtimeconfig.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\bin\Debug\net5.0\ref\05. Christmas Gifts.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\bin\Debug\net5.0\05. Christmas Gifts.pdb
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.AssemblyInfo.cs
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\obj\Debug\net5.0\ref\05. Christmas Gifts.dll
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.pdb
+C:\Users\Marina\source\repos\ProgrammingBasicsOnlineRegularExam26and27February2022\05. Christmas Gifts\obj\Debug\net5.0\05. Christmas Gifts.genruntimeconfig.cache
